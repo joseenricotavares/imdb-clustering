@@ -1,0 +1,17 @@
+Checkpoint#1 - 2025_2
+
+A partir do notebook desenvolvido nas aulas do 2o semestre, onde foram aplicadas técnicas de processamento de texto e modelo de clusterização KMeans, elaborar 2 notebooks contendo:
+
+Notebook 1:
+Aprimorar o código de web scrapping para obter os dados dos 250 filmes disponíveis no link: https://www.imdb.com/chart/top/?ref_=nv_mv_250 . (Codigo disponibilizado na aula de 20250822)
+Repetir o treinamento do modelo KMeans com k=5, utilizando a base de dados melhorada pelo tópico anterior.
+Repetir as análises dos clusters conforme apresentado no notebook da aula (não esqueçam dos comentários/insights das análises no final do notebook)
+Notebook 2:
+Incluir as demais features do dataset no treinamento do modelo KMeans. Repetir as análises dos clusters e comparar os resultados entre:
+Modelo 1: utilizando somente a feature da sinopse vetorizada para treinamento do modelo
+Modelo 2: utilizando todas as features
+Escolher a melhor opção entre os 2 modelos, justificando a escolha.
+Entregáveis:
+3.1 Pdf com o nome completo dos integrantes do grupo
+3.2 No mesmo pdf, informar o link do repositório Github contendo os 2 notebooks (.ipynb)
+3.3 Prazo para envio do link via Tarefas do Teams: 14/09/2025 as 23:59h.

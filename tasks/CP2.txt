@@ -1,0 +1,15 @@
+Checkpoint#2 - 2025_2
+
+A partir dos notebooks desenvolvidos nas aulas 01 a 04 do 2o semestre, onde foram aplicadas técnicas de processamento de texto e biblioteca de AutoML PyCaret para modelos de clusterização:
+Incluir as demais features do dataset para o treinamento dos modelos utilizando a biblioteca de automl PyCaret.
+Escolher a melhor opção entre os modelos (via Pycaret ou Sklearn), com ou sem o uso de todas as features, justificando a escolha.
+Desenvolver um webapp onde o usuário receba recomendações de filmes baseadas no modelo de clusterização treinado no tópico anterior. Em uma tela inicial o usuário poderá escolher entre 2 métodos:
+Método 1: Apresentar 3 a 5 opções de sinopses de filme (sem mostrar o título) e solicitar ao usuário que escolha 1 deles. Identificar a qual cluster pertence a sinopse escolhida e recomendar uma lista de 5 filmes pertencentes ao mesmo cluster. Definir o melhor critério para a seleção dos 5 filmes do cluster em questão a serem recomendados.
+Método 2: Solicitar ao usuário que escreva um exemplo de sinopse de filme que agradaria a ele, e então esta sinopse deverá passar pelo processamento de texto e ser submetida ao modelo, que a classificará em um dos clusters. Para este método deverá ser utilizado o modelo treinado somente com as sinopses vetorizadas. Daí em diante o processo é o mesmo do método 1.
+Realizar o deploy do webapp
+(Opcional, 1 ponto extra) - Enriquecer as sinopses de cada filme da base de dados utilizando IA Generativa.
+Entregáveis:
+4.1 Pdf com o nome completo dos integrantes do grupo
+4.2 No mesmo pdf, informar o link do webapp "deployado", o link do repositório Github contendo o notebook com o treinamento do modelo e os arquivos relativos ao webapp.
+4.3 Prazo de entrega via Tarefas do Teams: 03/10/2025 as 23:59h.
+4.4 Apresentação na aula de 03/10/2025 (todos do grupo)
